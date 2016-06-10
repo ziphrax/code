@@ -1,0 +1,24 @@
+{
+  "name": "code",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "David Jones <david.jones@mso.net <david.jones@mso.net <>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "resolutions": {
+    "jquery": "^3.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^3.0.0"
+  }
+}
